@@ -1,0 +1,8 @@
+Y, O y NOT: 
+	-&& es un operador logico que compara y devuelve las expresiones sólo si ambas expresiones comparadas son verdaderas o ture. De lo contrario, devolverá falso. 
+        -|| es otro operador lógico que tambien se utiliza para comparar expresiones y devuelve true si una o ambas expresiones comparadas son true. De lo contrario, si ambas expresiones son false, devuelve false.
+	-! es otro operador logico que significa NOT o negacion y niega cualquier valor booleano que lleve la expresion. !1 es false puesto que el valor booleano de 1 es true, pero como esta negado, resulta en false.
+
+for: este es un tipo de bucle para no repetirse.Se utiliza para evitar escribir codigo de manera repetitiva. la estructura es la siguiente 
+ for (var i = 0; i <=100; i++) {
+  }
