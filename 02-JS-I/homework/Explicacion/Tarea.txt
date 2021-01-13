@@ -1,0 +1,9 @@
+Variable: Es una forma de guardar valor o datos para luego poder utilizarlos más tarde. En JavaScript se utiliza la palabra var para crear la variable.
+Strings: Los strings son bloques de texto y siempre llevan las comillas ' '. Cualquier cosa puede ir dentro de un string, incluso los números. El string sirve para poner alli dentro los datos que nosotros querramos utilizar.
+Funciones: Las funciones son algo mas complejas ya que poseen strings y variables. Una funcion sirve para poder invocar el codigo posteriormente de una manera mas corta. Esta funciones puede o no recibir argumentos y esto va a ser lo que puede (o no) variar si nosotros despues ejecutamos la funcion. Si se utiliza el return
+significa que la funcion va a devolver lo que se le haya especificado y no lo que vaya despues de ese return.
+IF: El if se utiliza para determinar que puede pasar, y en caso de que pase, será verdadero. De lo contrario, será falso. Con esto me refiero a que podemos determinar que es falso y que es verdadero.
+Booleanos: Los booleanos como el true o false representan valores excluyentes, ya que si no es verdadero, se entiende que es falso.
+
+
+
