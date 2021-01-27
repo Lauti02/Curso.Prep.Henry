@@ -1,0 +1,1 @@
+Los Arrays funcionan como listas en donde puedo guardar cualquier tipo de elementos. Esto permite guardar elementos para poder luego utilizarlos o simplemente para reducir la cantidad de codigo. Con array.length puedo saber que longitud tiene el array (cuantos elementos tiene dentro) y de esta forma ver que debo cambiar de una manera mas rapida.
